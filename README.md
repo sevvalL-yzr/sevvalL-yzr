@@ -2,6 +2,7 @@
 <h1 align="center">Hi,I'm Sevval Yazar</h3>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
+how to reach me **yazars051@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
