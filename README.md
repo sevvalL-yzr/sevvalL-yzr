@@ -1,4 +1,5 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYkohyOAo-H3WFy9Xev3UdxprDL_U45n5BNw&s
+![Uploading image.png…]()
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/şevval yazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şevval yazar" height="30" width="40" /></a>
